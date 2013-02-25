@@ -80,5 +80,12 @@
 
    crontab -l             # 查看当前用户的计划任务
 
-服务
+### 服务
+    chkconfig --list       # 列出所有系统服务
+    chkconfig --list | grep on    # 列出所有启动的系统服务
+
+### 程序
+    rpm -qa                # 查看所有安装的软件包
+
+
 
