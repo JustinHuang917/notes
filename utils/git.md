@@ -55,19 +55,19 @@ git config -l  # 列举所有配置
 
 ###查看、添加、提交、删除、找回，重置修改文件
 
-*git help <command>  # 显示command的help
+git help <command>  # 显示command的help
 
-*git show            # 显示某次提交的内容
+git show            # 显示某次提交的内容
 
-*git show $id
+git show $id
 
-*git co  -- <file>   # 抛弃工作区修改
+git co  -- <file>   # 抛弃工作区修改
 
-*git co  .           # 抛弃工作区修改
+git co  .           # 抛弃工作区修改
 
-*git add <file>      # 将工作文件修改提交到本地暂存区
+git add <file>      # 将工作文件修改提交到本地暂存区
 
-*git add .           # 将所有修改过的工作文件提交暂存区
+git add .           # 将所有修改过的工作文件提交暂存区
 
 git rm <file>       # 从版本库中删除文件
 
