@@ -16,9 +16,9 @@ export CGO_ENABLED=0
 
 
 参考
-(http://dave.cheney.net/2012/09/08/an-introduction-to-cross-compilation-with-go)[http://dave.cheney.net/2012/09/08/an-introduction-to-cross-compilation-with-go]
+[http://dave.cheney.net/2012/09/08/an-introduction-to-cross-compilation-with-go](http://dave.cheney.net/2012/09/08/an-introduction-to-cross-compilation-with-go)
 
-(https://github.com/davecheney/golang-crosscompile/blob/master/crosscompile.bash)[https://github.com/davecheney/golang-crosscompile/blob/master/crosscompile.bash]
+[https://github.com/davecheney/golang-crosscompile/blob/master/crosscompile.bash](https://github.com/davecheney/golang-crosscompile/blob/master/crosscompile.bash)
 
 
  
